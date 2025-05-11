@@ -1,0 +1,1241 @@
+Amount: $42.50  
+Description: Movie tickets  
+History:  
+Speaker 1: Hey, did you enjoy the movie last night?  
+Speaker 2: Absolutely! That twist at the end was mind-blowing.  
+Speaker 1: I know, right? Totally unexpected!  
+Speaker 2: By the way, can you send me $42.50 for the tickets I booked?  
+Speaker 1: Oh, of course! Let me do that right now.  
+Speaker 2: Thanks, rematch this weekend?  
+Speaker 1: Definitely, let's do it!  
+================================
+Amount: $45.00  
+Description: Power bill  
+History:
+Speaker 1: Hey, did you manage to check the mail today?  
+Speaker 2: Yeah, I did. We got the power bill, and it's a bit higher than last month.  
+Speaker 1: Oh no, by how much?  
+Speaker 2: It's $45 this time. Looks like the heater usage last week increased it.  
+Speaker 1: Oh, right. The cold snap really had us cranking it up.  
+Speaker 2: Yep, but we stay warm, so it's worth it. Could you go ahead and send me your half?  
+Speaker 1: Sure thing. Just Venmo-ed you my part.  
+Speaker 2: Got it, thanks! Let's keep an eye on the usage this month.
+================================
+Amount: $75.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Alex, are you excited for the concert this weekend?  
+Speaker 2: Absolutely, I can't wait to finally see them live!  
+Speaker 1: Remember to bring your best pair of dancing shoes!  
+Speaker 2: Definitely! Oh, by the way, I booked our tickets online yesterday.  
+Speaker 1: Awesome, thanks for that! How much do I owe you?  
+Speaker 2: It's $75. Please send it when you get a chance.  
+Speaker 1: Of course, I'll send you the amount right now.  
+Speaker 2: Great, see you at the concert!  
+================================
+Amount: $45.00  
+Description: Dinner Party  
+History:  
+Speaker 1: Hey Alex, the dinner party last night was amazing!  
+Speaker 2: I'm glad you enjoyed it. The restaurant has a great ambiance.  
+Speaker 1: Absolutely! The food was splendid too. Thank you for organizing.  
+Speaker 2: No problem. By the way, can you transfer me $45 for your share of the dinner bill?  
+Speaker 1: Oh, of course! I'll send it right now.  
+Speaker 2: Thanks, I appreciate it. I hope we can do this again soon!  
+================================  
+
+Amount: $20.00  
+Description: Uber Ride  
+History:  
+Speaker 1: Hey Kelsey, did you get home safely last night?  
+Speaker 2: Yes, thanks for checking. The Uber ride was pretty smooth.  
+Speaker 1: Great to hear. By the way, I covered the ride fare on my app. Can you send me $20 when you get a chance?  
+Speaker 2: Sure thing, I'll do it right now. Thanks for arranging it.  
+Speaker 1: No worries, anytime!  
+===============================  
+
+Amount: $75.00  
+Description: Gift Contribution  
+History:  
+Speaker 1: Hey Mike, the surprise party for Sarah was such a hit!  
+Speaker 2: Yeah, she was genuinely surprised, especially with that gift.  
+Speaker 1: True, I'm glad everyone chipped in for it. Speaking of which, can you send me $75 for your share?  
+Speaker 2: Of course, no problem. Consider it done.  
+Speaker 1: Awesome, thanks!  
+===============================
+Amount: $45.00
+Description: Concert Tickets
+History:
+Speaker 1: Hey Jamie, are you excited for the concert this weekend?
+Speaker 2: Absolutely! I've been waiting for this for weeks. Thanks for grabbing the tickets.
+Speaker 1: No problem! I just got an email confirmation for both of them.
+Speaker 2: Awesome. How much do I owe you for my ticket?
+Speaker 1: It's $45. Could you send it over when you have a moment?
+Speaker 2: Sure thing. I'll Venmo you right now.
+================================
+
+Amount: $32.50
+Description: Grocery Run
+History:
+Speaker 1: Hey Alex, thanks for picking up the groceries yesterday.
+Speaker 2: No worries, happy to help. Did you get everything you needed?
+Speaker 1: Yep, all set for the week now.
+Speaker 2: Great! Your share comes to $32.50. Could you transfer it when you're free?
+Speaker 1: Will do. Sending it over now.
+================================
+
+Amount: $24.99
+Description: Streaming Subscription
+History:
+Speaker 1: Hey, did you get a chance to watch the new show I mentioned?
+Speaker 2: Not yet, I was just about to ask if our streaming account was still active.
+Speaker 1: Oh, I renewed it yesterday! It should be good to go.
+Speaker 2: Perfect. How much was my half again?
+Speaker 1: It's $24.99 for the month.
+Speaker 2: Alright, I'll PayPal you right away.
+================================
+Amount: $45.50  
+Description: Pizza night  
+History:  
+Speaker 1: Hey Alex, are you excited for the movie night?  
+Speaker 2: Absolutely! Pizza is ready, and the movies are downloaded.  
+Speaker 1: Awesome! How much do I owe you for the pizzas?  
+Speaker 2: Oh, it's $45.50. We got three large boxes and some sides.  
+Speaker 1: Got it, I'll send the payment right now.  
+Speaker 2: Thanks! Can't wait to dig in.
+Amount: $25.00  
+Description: Pizza Night  
+History:  
+Speaker 1: Hey Jamie, that was an epic movie night yesterday!  
+Speaker 2: Totally! The pizza was the highlight.  
+Speaker 1: Yeah, speaking of which, can you send me your share for the pizza?  
+Speaker 2: Oh sure, how much was it again?  
+Speaker 1: Just $25.  
+Speaker 2: Got it, sending it your way now! Pizza like that is worth every penny.  
+Speaker 1: Absolutely! Thanks, Jamie!  
+================================
+Amount: $25.50  
+Description: Movie Tickets  
+History:  
+Speaker 1: Hey Alex, did you manage to book the tickets for the movie tonight?  
+Speaker 2: Yup, I booked them this morning!  
+Speaker 1: Great! How much do I owe you?  
+Speaker 2: It's $25.50 for both tickets.  
+Speaker 1: Perfect, I'll send you the money right now.  
+Speaker 2: Awesome, thanks! Can't wait for the movie.  
+Speaker 1: Me too! It's going to be so fun.  
+================================
+Amount: $45.00  
+Description: Groceries Split  
+History:  
+Speaker 1: Hey Alex, did you manage to grab those groceries for our trip?  
+Speaker 2: Yep, I got everything on the list. Do you mind splitting the cost with me? It came to $90 total.  
+Speaker 1: Sure, thanks for doing the shopping. So, is my half $45?  
+Speaker 2: Exactly! Can you send it over through Venmo?  
+Speaker 1: Absolutely, sending it right now!  
+================================
+Amount: $45.00   
+Description: Groceries Share  
+History:  
+Speaker 1: Hey Alex, did you manage to grab everything we needed for the house?  
+Speaker 2: Yup, got it all on the list! Everything from the grocery store.  
+Speaker 1: Awesome, thanks so much! What was the total?  
+Speaker 2: It came to $90 altogether. Can you send me $45 for your half?  
+Speaker 1: Absolutely, I'll Venmo you right now. Thanks for doing the grocery run today!   
+Speaker 2: No problem, always happy to help.  
+
+================================
+Amount: $47.20  
+Description: Movie night snacks  
+History:  
+Speaker 1: Hey Alex, last night's movie was awesome, right?  
+Speaker 2: Totally, especially that twist ending.  
+Speaker 1: By the way, it's crazy how much snacks cost there!  
+Speaker 2: I know, right? Can you Venmo me $47.20 for those snacks?  
+Speaker 1: Oh, sure! Sending it right now.  
+Speaker 2: Great, thanks! Let's do it again soon.  
+================================
+Amount: $56.75  
+Description: Dinner & Drinks  
+History:  
+Speaker 1: Hey Alex, how was your weekend?  
+Speaker 2: Pretty good! Went out with a few friends on Saturday.  
+Speaker 1: Nice! Where did you go?  
+Speaker 2: We hit up that new bistro downtown and then some place for drinks after.  
+Speaker 1: Sounds fun! Was it expensive?  
+Speaker 2: Yeah, a bit. Speaking of which, can you send over $56.75? That covers your share for dinner and drinks.  
+Speaker 1: Oh, absolutely. I'll send it over right now. Thanks for covering.  
+Speaker 2: No worries! Let's do it again sometime.
+================================
+Amount: $45.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Alex, did you manage to grab the tickets for the concert next weekend?  
+Speaker 2: Yeah, scored two great seats! Total came to $90.   
+Speaker 1: Awesome, can't wait to go! How should we split it?  
+Speaker 2: Just send $45 my way when you can.   
+Speaker 1: Sure thing, I'll venmo you right now. Thanks for setting it up!  
+Speaker 2: No problem! It's going to be epic.  
+Speaker 1: Absolutely! By the way, should we plan for dinner before the concert?  
+Speaker 2: Sounds perfect. I know a great spot nearby.  
+Speaker 1: Cool, let's finalize that later. Just venmoed you the money too!  
+================================
+Amount: $25.50  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Alex, are you going to the concert tomorrow?  
+Speaker 2: Definitely! I got our tickets last week.  
+Speaker 1: Oh awesome! How much do I owe you for mine?  
+Speaker 2: It's $25.50 for your ticket.  
+Speaker 1: Cool, I'll send it now.  
+Speaker 2: Thanks! Can't wait for the concert!  
+Speaker 1: Same here! It's going to be epic.  
+================================
+Amount: $45.50  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Alex, are you excited for the concert this weekend?  
+Speaker 2: Oh definitely! I've been looking forward to it all month.  
+Speaker 1: Me too! I got our tickets yesterday.  
+Speaker 2: Awesome, thanks for grabbing those. How much do I owe you?  
+Speaker 1: It was $45.50 each, so just send me that whenever you can.  
+Speaker 2: Perfect, I'll Venmo you right now. Thanks again!  
+Speaker 1: No problem, can't wait for the show!  
+================================
+Amount: $75.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey, do you remember the concert we talked about last week?  
+Speaker 2: Yes! It's coming up soon, right? I'm super excited!  
+Speaker 1: It sure is! I went ahead and bought the tickets for us online. Do you mind sending me your share?  
+Speaker 2: Of course, how much do I owe you?  
+Speaker 1: It's $75.00. I snagged us some really good seats!  
+Speaker 2: Awesome, I just sent the payment. Can't wait for the concert!  
+Speaker 1: Got it, thanks! It's going to be amazing!  
+
+================================  
+
+Amount: $45.50  
+Description: Grocery Split  
+History:  
+Speaker 1: Hey, I just got back from the grocery store and stocked up on everything we needed for the week.  
+Speaker 2: Great! Did you get the list of things I texted you too?  
+Speaker 1: Yes, I made sure not to miss anything from your list. The total was $91, so your half is $45.50.  
+Speaker 2: Perfect, I'm glad you remembered. I'll send the money now.  
+Speaker 1: Thanks! I'll start preparing the dinner with the fresh ingredients we got.  
+
+================================  
+
+Amount: $150.00  
+Description: Birthday Gift  
+History:  
+Speaker 1: Hey, how's the search for the perfect gift for Luke going?  
+Speaker 2: I found it! He's going to love the new smartwatch.  
+Speaker 1: That's awesome! How much do I owe you for my share?  
+Speaker 2: It came to $300, so your half is $150.00.  
+Speaker 1: Alright, I'll send you the money right away.  
+Speaker 2: Thanks! This is going to be the best surprise party ever!  
+
+================================
+Amount: $45.50  
+Description: Birthday Gift  
+History:  
+Speaker 1: Hey Jamie, what do you think about the gift for Chris's birthday?  
+Speaker 2: I loved it! The watch was perfect.  
+Speaker 1: I'm glad you liked it! By the way, could you send me $45.50 for your share?  
+Speaker 2: Of course, let me do that right now.  
+================================  
+
+Amount: $22.75  
+Description: Grocery Share  
+History:  
+Speaker 1: Hey Alex, we need to split the grocery bill from yesterday.  
+Speaker 2: Sure, how much do I owe you?  
+Speaker 1: It's $22.75 for your half.  
+Speaker 2: Got it. I'll send it over now.  
+================================  
+
+Amount: $60.00  
+Description: Concert Ticket  
+History:  
+Speaker 1: Remember how amazing that concert was last week?  
+Speaker 2: Absolutely! Best night ever.  
+Speaker 1: Hey, don't forget about the ticket price. Can you Venmo me $60.00?  
+Speaker 2: Oh, right! I'll do it right away.  
+================================  
+
+Amount: $15.00  
+Description: Coffee Run  
+History:  
+Speaker 1: Morning! Your usual coffee was $15.00 since there was a discount.  
+Speaker 2: Thanks for grabbing that! I'll transfer the money to you now.  
+Speaker 1: No rush, but I appreciate it.  
+Speaker 2: Already done! Coffee is a life saver.  
+================================
+Amount: $45.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Alex, did you manage to get the concert tickets for Friday night?  
+Speaker 2: Yeah, I scored two. It's gonna be amazing!  
+Speaker 1: Awesome! How much do I owe you for my ticket?  
+Speaker 2: It was $45 each, so just send me the $45 when you can.  
+Speaker 1: Sweet, I'll pay you right now.  
+Speaker 2: Thanks! Can't wait for the concert!  
+================================
+Amount: $45.50  
+Description: Grocery Split  
+History:  
+Speaker 1: Hey Alex, just got back from the store!  
+
+Speaker 2: Oh cool! Did you manage to get everything we needed?  
+
+Speaker 1: Yep, I picked up all the snacks and supplies for game night.  
+
+Speaker 2: Awesome, you're the best!  
+
+Speaker 1: No worries! The total came to about $91. Do you mind splitting it?  
+
+Speaker 2: Of course, that sounds fair. Just let me know my part.  
+
+Speaker 1: Great, your half is $45.50.  
+
+Speaker 2: Alright, I'll send it right away.  
+
+Speaker 1: Thanks! Really looking forward to the games tonight.  
+
+Speaker 2: Me too, it's going to be epic!
+================================
+Amount: $45.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Alex, are you excited for the concert tomorrow night?  
+Speaker 2: Absolutely! I can't wait to see them live.  
+Speaker 1: Me too! Hey, I snagged the last pair of tickets.   
+Speaker 2: Sweet, thanks for grabbing them!  
+Speaker 1: No worries! Could you PayPal me $45 for your ticket when you get a chance?  
+Speaker 2: Of course, sending it over now!
+Amount: $75.00  
+Description: Concert Ticket  
+History:  
+Speaker 1: Hey Alex, did you enjoy the concert last night?  
+Speaker 2: Absolutely! It was amazing to see them live!  
+Speaker 1: I'm glad you had fun. By the way, can you send me the $75 for the concert ticket?  
+Speaker 2: Oh, of course! Almost forgot. I�ll send it right now. Thanks for grabbing the tickets in advance!  
+Speaker 1: No problem! We should definitely do this again sometime.  
+
+================================  
+
+Amount: $40.25  
+Description: Grocery Share  
+History:  
+Speaker 1: Morning, Jamie! Did you get a chance to pick up groceries yesterday?  
+Speaker 2: Yes, I did. I bought everything on the list.  
+Speaker 1: Great! How much do I owe you?  
+Speaker 2: It came to $40.25 for your half.  
+Speaker 1: Perfect, I'll send that over right away. Thanks for going!  
+Speaker 2: No worries, happy to help!  
+
+================================  
+
+Amount: $120.00  
+Description: Utility Bill  
+History:  
+Speaker 1: Hey, Sarah! Just a quick reminder that our utility bill is due tomorrow.  
+Speaker 2: Thanks for the heads-up! How much was it this month?  
+Speaker 1: It's $240 total, so your half is $120.  
+Speaker 2: Got it! I'll transfer that to you right now. Thanks for handling the payment!  
+
+================================  
+
+Amount: $18.50  
+Description: Movie Night Snacks  
+History:  
+Speaker 1: Hey Chris, last night was so much fun!  
+Speaker 2: Totally! I loved the movie, and those snacks were on point.  
+Speaker 1: Haha, thanks! Could you venmo $18.50 for your half of the snacks?  
+Speaker 2: Of course, just sent it! Thanks for setting everything up.  
+
+================================
+Amount: $27.50  
+Description: Movie Tickets  
+History:  
+Speaker 1: Hey, did you catch that new action movie yet?  
+Speaker 2: Not yet! I've been meaning to.  
+Speaker 1: We went yesterday; it was awesome!  
+Speaker 2: That sounds fun! I'm up for a movie night if you want to go again.  
+Speaker 1: Sure, let's make it Friday? Tickets are $27.50 for both of us.  
+Speaker 2: Sounds perfect. Can you grab the tickets, and I'll pay you back?  
+Speaker 1: Absolutely, I'll book them now. You can just venmo me later.  
+Speaker 2: Done, sending the money! Can't wait for Friday!  
+================================
+Amount: $45.00  
+Description: Birthday Gift  
+History:  
+Speaker 1: Hey Jamie, did you enjoy the party last night?  
+Speaker 2: Absolutely! It was a great surprise. Thanks for organizing everything.  
+Speaker 1: I'm so glad you loved it. Everyone had a blast.  
+Speaker 2: Yeah, and the cake was delicious. Who chose it?  
+Speaker 1: Emily and I picked it out. By the way, can you send me $45 for the gift we split?  
+Speaker 2: Totally, I was about to ask. Sending the money right now.  
+================================
+Amount: $25.00  
+Description: Birthday Gift  
+History:  
+Speaker 1: Hi Jane, did you enjoy your birthday celebration last week?  
+Speaker 2: Absolutely, it was fantastic! The dinner surprised me, thank you so much for organizing it.  
+Speaker 1: I'm so glad you liked it! Also, did you get the gift from our group?  
+Speaker 2: Yes, it's perfect. I've already started using the new planner you guys gave me.  
+Speaker 1: Great to hear! By the way, could you please send me $25 for your share of the gift?   
+Speaker 2: Oh sure, thanks for reminding me. I'll send it right now.  
+Speaker 1: Awesome, thank you!  
+================================
+Amount: $75.00  
+Description: Birthday Gift  
+History:  
+Speaker 1: Hey Alex, did you enjoy the birthday party last night?  
+Speaker 2: Yeah, it was a blast! Thanks for organizing everything.  
+Speaker 1: I'm glad you liked it. Did you get a chance to open all your presents?  
+Speaker 2: I did! And thank you so much for the amazing gift card, it was really generous.  
+Speaker 1: Oh, you're welcome! Listen, could you send me the share for that joint gift we planned for Emma? It's $75 from each of us.  
+Speaker 2: Absolutely, I'll send it right now. Thanks for reminding me!
+================================
+Amount: $42.50  
+Description: Movie tickets  
+History:  
+Speaker 1: Hey Alex, did you book the tickets for tonight's movie?  
+Speaker 2: Yup, got them for the 7:30 show. Remember, we're watching "Galactic Rangers."  
+Speaker 1: Awesome, can't wait to see it! How much do I owe you?  
+Speaker 2: Just $42.50 for both tickets.  
+Speaker 1: Perfect, I'll send it over now.  
+Speaker 2: Thanks! Looking forward to an epic movie night!
+================================
+Amount: $45.00  
+Description: Groceries Split  
+History:  
+Speaker 1: Hey Jamie, how was your weekend?  
+Speaker 2: Pretty good, did some cleaning and grocery shopping.  
+Speaker 1: Sounds productive! Did you go to that new supermarket?  
+Speaker 2: Yeah, it was amazing! They had so many good deals.  
+Speaker 1: Did you get everything you needed?  
+Speaker 2: Yup, and I picked up some extra stuff for our pasta night.  
+Speaker 1: Oh nice! How much do I owe you for my part?  
+Speaker 2: It came to $45. Can you Venmo me when you get a chance?  
+Speaker 1: Of course, just sent it! Thanks for grabbing everything.  
+Speaker 2: No problem, can't wait to cook together!
+================================
+Amount: $45.00  
+Description: Gas Money  
+History:  
+Speaker 1: Hey Jordan, did you take my car to go hiking last weekend?  
+Speaker 2: Hey! Yes, I hope you don't mind. Your car is way better on the hills than mine.  
+Speaker 1: No worries at all! Was the hike amazing?  
+Speaker 2: It was incredible, thanks for asking! By the way, I filled up the tank for you. Could you Venmo me $45 when you get a chance?  
+Speaker 1: Absolutely! I'll send it over right now. Glad you had a great time.  
+Speaker 2: Thanks a bunch! Let's plan a hike together soon.  
+================================
+Amount: $45.20  
+Description: Movie night snacks  
+History:  
+Speaker 1: Hey Alex, the movie night yesterday was awesome!  
+Speaker 2: Yeah, I had a great time too. Those snacks were a hit!  
+Speaker 1: Totally! Could you remind me how much I owe you for them?  
+Speaker 2: It was $45.20, I grabbed a lot. Those gourmet popcorns weren't cheap!  
+Speaker 1: No worries, they were worth it. I'll send it over now!  
+================================
+Amount: $47.50  
+Description: Concert tickets  
+History:  
+Speaker 1: Hey Lisa, did you get the tickets for the concert this weekend?  
+Speaker 2: Yup, I scored great seats! Can't wait to see them live.  
+Speaker 1: Awesome! Let me know how much I owe you for my ticket.  
+Speaker 2: Sure thing, it's $47.50 per person, so just send that over when you can.  
+Speaker 1: Perfect! Sending it over right now.  
+Speaker 2: Thanks a bunch! This concert is going to be epic.  
+
+================================  
+
+Amount: $20.00  
+Description: Pizza night  
+History:  
+Speaker 1: Hey Mike, did we have enough to cover the pizza last night?  
+Speaker 2: We came up a little short. I covered the extra $20.  
+Speaker 1: Oh, no problem. I'll send you the $20. Is that cool?  
+Speaker 2: Sure, thanks! It was totally worth it�those garlic knots were amazing.  
+Speaker 1: Agreed! I'll hit you up with the payment right now.  
+
+================================  
+
+Amount: $12.99  
+Description: Book purchase  
+History:  
+Speaker 1: Hey Ashley, did you manage to secure that book for our club?  
+Speaker 2: Yes, I ordered it online. It came to $12.99.  
+Speaker 1: Great, do you need me to chip in for it?  
+Speaker 2: That would be awesome, yeah. Could you send me $12.99 for your copy?  
+Speaker 1: Absolutely! Sending it your way now. Can't wait to start reading.  
+Speaker 2: Me too! This one's going to be captivating. 
+
+================================
+Amount: $45.00  
+Description: Birthday Gift  
+History:  
+Speaker 1: Hey Alex, did you enjoy the party last night?  
+Speaker 2: Absolutely! Thanks for organizing everything. It was amazing.  
+Speaker 1: I'm glad to hear that! By the way, I've already pooled money from everyone for the birthday gift.  
+Speaker 2: Oh, great! How much do I owe you for that?  
+Speaker 1: It's $45.00 per person. The gift was worth it though!  
+Speaker 2: Totally agree. I'll send you the money right now.
+
+================================
+Amount: $45.50  
+Description: groceries  
+History:  
+Speaker 1: Hey Jordan, did you make it to the grocery store today?  
+Speaker 2: Yeah, I did. Picked up everything we need for the week.  
+Speaker 1: Awesome, was it within the budget?  
+Speaker 2: A little over, but not by much. Can you Venmo me $45.50 for your share?  
+Speaker 1: Sure thing, I'll send it right now. Thanks for grabbing it all!  
+Speaker 2: No problem, happy to help. Let's hope this lasts until the end of the week!
+================================
+Amount: $45.00  
+Description: Movie Tickets  
+History:  
+Speaker 1: Hey Alex, did you enjoy the movie last night?  
+Speaker 2: Yeah, it was amazing! Thanks for suggesting it.  
+Speaker 1: Glad you liked it! Also, could you send me $45 for the tickets?  
+Speaker 2: Of course! Sending it your way right now.
+================================
+Amount: $75.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Alex, did you get the tickets for the concert?  
+Speaker 2: Yes! I snagged them yesterday evening, it was the last pair.  
+Speaker 1: Awesome! How much do I owe you?  
+Speaker 2: It's 75 for your ticket.  
+Speaker 1: Great deal! Sending it to you right now.  
+Speaker 2: Thanks! This concert is going to be epic.  
+Speaker 1: Can't wait! Let's plan to meet early.  
+
+================================
+
+Amount: $22.50  
+Description: Grocery Share  
+History:  
+Speaker 1: Did you pick up the groceries?  
+Speaker 2: Yep, I got everything on the list.  
+Speaker 1: Perfect. What's my share?  
+Speaker 2: It's $22.50 for your half.  
+Speaker 1: Alright, let me transfer that now.  
+Speaker 2: Thanks! Dinner prep will be easy now.  
+Speaker 1: Looking forward to it.  
+
+================================
+
+Amount: $120.00  
+Description: Group Gift  
+History:  
+Speaker 1: Have we collected everyone's share for the gift?  
+Speaker 2: Almost. John, you still need to contribute.  
+Speaker 1: Oh, right! How much was it again?  
+Speaker 2: Your share is $120.00.  
+Speaker 1: Just sent it to you.  
+Speaker 2: Awesome, thanks! This gift is going to be great.  
+Speaker 1: She'll love it for sure.  
+
+================================
+Amount: $75.00  
+Description: Movie night tickets  
+History:  
+Speaker 1: Hey, did you manage to grab the tickets for the movie tonight?  
+Speaker 2: Yup, got them! I snagged a couple for the 8 PM show. Did you bring your friend too?  
+Speaker 1: Yeah, she's coming along as well. I'm really excited! How much do I owe you for my ticket?  
+Speaker 2: They were $15 each, so that's $75 for all five tickets.  
+Speaker 1: Oh, sounds good! I'll send you the money right now.  
+Speaker 2: Perfect, thanks! Looking forward to tonight. Any plans for dinner before the movie?  
+Speaker 1: Not really. How about we just grab something quick near the theater?  
+Speaker 2: Sounds like a plan! I'll see you there.  
+Speaker 1: See you!  
+================================
+Amount: $47.50  
+Description: Birthday Gift  
+History:  
+Speaker 1: Hey Alex, did you make it to Jessica's birthday party last night?  
+Speaker 2: Yeah, it was so much fun! She really loved the surprise.  
+Speaker 1: I know, right? I'm glad we got her that necklace.  
+Speaker 2: Same! By the way, I sent you $47.50 for my half of the gift.  
+Speaker 1: Oh great, thanks for doing that. I'll check my account in a bit.  
+Speaker 2: No rush! Also, do you think she noticed we planned the whole thing?  
+Speaker 1: I think she had a hint, but was totally surprised by the gift.  
+================================
+
+Amount: $29.99  
+Description: Monthly Subscription  
+History:  
+Speaker 1: Hey Dina, I just signed up for that streaming service we talked about.  
+Speaker 2: Awesome, how much was it?  
+Speaker 1: Monthly fee is $29.99.  
+Speaker 2: Got it, hope it's worth it. Have you checked out any shows yet?  
+Speaker 1: Yeah, started watching that new series everyone is raving about.  
+Speaker 2: Oh nice, let me know how it is. I might subscribe too.  
+Speaker 1: Will do! By the way, you can use my account until you decide.  
+================================  
+
+Amount: $5.20  
+Description: Coffee Run  
+History:  
+Speaker 1: Morning, Charlie! Did you want your usual from the caf�?  
+Speaker 2: Yes, please! And don't forget the extra shot!  
+Speaker 1: Got it. Your total is $5.20.  
+Speaker 2: Alright, I'll Venmo you now.  
+Speaker 1: Cool, I'll be back in 15 minutes.  
+Speaker 2: Thanks, appreciate it!  
+================================
+Amount: $25.99  
+Description: Movie tickets  
+History:  
+Speaker 1: Hey Alex, did you manage to book the movie tickets for Friday?  
+Speaker 2: Yes, I got them! It's going to be so much fun.  
+Speaker 1: Awesome! I can't wait to watch it on the big screen.  
+Speaker 2: Yeah, it's been a while since we all went together.  
+Speaker 1: By the way, how much do I owe you for my ticket?  
+Speaker 2: Just $25.99 for your seat.   
+Speaker 1: Perfect, I'll send it to you right now!  
+Speaker 2: Thanks, looking forward to Friday night!  
+Speaker 1: Me too! Popcorn's on me!
+================================
+Amount: $45.00  
+Description: Shared Cab Fare  
+History:  
+Speaker 1: Hey Alex, did you get home okay last night?  
+Speaker 2: Yeah, thanks for sharing the cab with me. It was quite late.  
+Speaker 1: No worries, I was glad to have company. By the way, do you think you could send me $45 for your share of the cab fare?  
+Speaker 2: Absolutely, I�ll send it right away. Thanks for arranging the ride!  
+Speaker 1: Anytime! Let�s plan on meeting up last weekend of this month?  
+Speaker 2: Sounds great, I'll check my calendar and confirm later.
+Amount: $25.50  
+Description: Movie tickets  
+History:  
+Speaker 1: Hey, did you enjoy the movie last night?  
+Speaker 2: Absolutely, it was amazing! Thanks for organizing everything.  
+Speaker 1: No problem, glad you liked it! By the way, can you send me $25.50 for your tickets?   
+Speaker 2: Oh, right! Totally slipped my mind. Let me do that right now.  
+
+================================  
+
+Amount: $52.00   
+Description: Shared groceries  
+History:  
+Speaker 1: Hey Alex, thanks for going grocery shopping yesterday.   
+Speaker 2: No worries! We were out of everything!   
+Speaker 1: I know, I'm glad we stocked up. How much do I owe you?   
+Speaker 2: Your half is $52.00.   
+Speaker 1: Great, I'll send it over via Venmo.   
+
+================================  
+
+Amount: $15.00  
+Description: Pizza night  
+History:  
+Speaker 1: Friday pizza night was awesome!   
+Speaker 2: Totally, the BBQ chicken pizza was the best.  
+Speaker 1: Agreed! How much do I owe for it?  
+Speaker 2: Your share is $15.00.   
+Speaker 1: Cool, sending the transfer right now.  
+
+================================  
+
+Amount: $79.99   
+Description: Concert tickets   
+History:  
+Speaker 1: That concert was epic! Great choice for the weekend.  
+Speaker 2: I'm glad you had fun! It was really exciting.   
+Speaker 1: How much were the tickets?  
+Speaker 2: Your part is $79.99.   
+Speaker 1: Got it, I'll pay you back on Venmo.  
+
+================================  
+
+Amount: $30.00   
+Description: Uber ride  
+History:  
+Speaker 1: Thanks for booking the Uber yesterday. Traffic was crazy!  
+Speaker 2: No problem, glad we didn't have to drive.  
+Speaker 1: How much should I chip in for the ride?  
+Speaker 2: It's $30.00.  
+Speaker 1: Alright, I'll send it to you right away.
+
+================================
+Amount: $45.00  
+Description: Pet grooming
+History:  
+Speaker 1: Hey, did you see Fluffy's new haircut? She looks adorable!  
+Speaker 2: I did! She looks like a little cloud! Where did you take her?  
+Speaker 1: The new grooming place on Maple Street. They did such a great job!  
+Speaker 2: I've heard good things about that. By the way, can you Venmo me $45 for her grooming session?  
+Speaker 1: Absolutely! Just sent it your way.
+================================
+Amount: $45.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Alex, did you see the band lineup for the concert next week?  
+Speaker 2: Yes! It's going to be epic! I can't wait.  
+Speaker 1: Remember, I got our tickets last month.  
+Speaker 2: Oh right, how much do I owe you for mine?  
+Speaker 1: It was $45 for each ticket.  
+Speaker 2: Alright, I'll send it to you now. Thanks for grabbing them!  
+Speaker 1: No problem, can't wait for the show!  
+================================  
+
+Amount: $10.50  
+Description: Coffee Run  
+History:  
+Speaker 1: Morning, did you get your coffee already?  
+Speaker 2: Not yet, I was waiting for you!  
+Speaker 1: Great! How about we go together? I'm craving a good latte.  
+Speaker 2: Sounds like a plan.  
+Speaker 1: By the way, can you PayPal me $10.50 for yesterday�s coffee run?  
+Speaker 2: Oh, absolutely! Doing that now.  
+Speaker 1: Thanks! Let's go get some caffeine!  
+================================  
+
+Amount: $27.99  
+Description: Online Book Order  
+History:  
+Speaker 1: Have you bought that book for class yet?  
+Speaker 2: Not yet, was waiting for a discount.  
+Speaker 1: I found a deal online and ordered for both of us.  
+Speaker 2: That's awesome! What do I owe you?  
+Speaker 1: It was $27.99 each.  
+Speaker 2: Perfect! I'll Venmo you right now.  
+Speaker 1: Cool, thanks! Can't wait to start reading it.  
+================================
+Amount: $45.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Alex, did you decide on going to the concert this Friday?  
+Speaker 2: Yeah, I bought the tickets yesterday! Super excited!  
+Speaker 1: Awesome! I can't wait. By the way, how much do I owe you for my ticket?  
+Speaker 2: It's $45.00 for your ticket, can you Venmo it to me?  
+Speaker 1: Sure thing. I�ll send it over right now.  
+Speaker 2: Thanks! We're going to have a blast!  
+Speaker 1: For sure, I�m already picking out my outfit!  
+================================
+Amount: $45.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey, did you enjoy the band last night?  
+Speaker 2: Absolutely! They were incredible live.  
+Speaker 1: Glad you liked it! Could you Venmo me for your ticket? It was $45.  
+Speaker 2: Totally! Sending it over right now.  
+================================  
+
+Amount: $27.50  
+Description: Book Purchase  
+History:  
+Speaker 1: Hey, I finally bought that book for our book club.  
+Speaker 2: Oh, awesome! How much was it?  
+Speaker 1: It was $27.50. Can you send me your share?  
+Speaker 2: Sure thing, I'll Venmo you right away.  
+================================  
+
+Amount: $62.00  
+Description: Grocery Split  
+History:  
+Speaker 1: Hey, did you get a chance to check the groceries?  
+Speaker 2: Yeah, I did! Thanks for picking them up. How much do I owe you?  
+Speaker 1: It was $124 total, so your half comes to $62.  
+Speaker 2: Alright, I�m sending the payment now.  
+================================  
+
+Amount: $85.00  
+Description: Monthly Gym Fee  
+History:  
+Speaker 1: Hey, thanks for covering the gym payment for me. I totally forgot about it.  
+Speaker 2: No worries! It was $85. Could you send it when you get a chance?  
+Speaker 1: Of course, I'll send it on Venmo ASAP.  
+================================  
+
+Amount: $19.99  
+Description: Movie Night Snacks  
+History:  
+Speaker 1: Hey, how was the movie night?  
+Speaker 2: It was great! Those snacks were perfect.  
+Speaker 1: Glad you liked them! It was $19.99 in total, could you chip in?  
+Speaker 2: Absolutely, sending you the money now.  
+================================
+Amount: $25.50  
+Description: Movie tickets  
+History:  
+Speaker 1: Hey Alex, did you enjoy the movie last night?  
+Speaker 2: Yeah, it was awesome! The special effects were mind-blowing.  
+Speaker 1: Totally agree. Hey, by the way, can you help me sort out the payment for the movie tickets?  
+Speaker 2: Oh right! How much was it again?  
+Speaker 1: It was $25.50 in total.   
+Speaker 2: Gotcha, sending it to you right now. Thanks for sorting that out!  
+Speaker 1: No problem, and thanks for joining. We should do this more often!  
+Speaker 2: Definitely, let's plan for another one soon.
+================================
+Amount: $45.25  
+Description: Shared groceries  
+History:  
+Speaker 1: Hey Alex, how's your day going?  
+Speaker 2: Pretty good, just went grocery shopping.  
+Speaker 1: Oh, you went to the usual place?  
+Speaker 2: Yeah, got the essentials and some snacks for the movie night.  
+Speaker 1: Sounds great! How much do I owe you for my share?  
+Speaker 2: Your share is $45.25. Can you transfer it by Friday?  
+Speaker 1: Of course! Sending it over right now.  
+Speaker 2: Thanks! I'll make sure we have everything set for the movie.   
+================================
+Amount: $45.00  
+Description: Dinner Contribution  
+History:  
+Speaker 1: Hey, did you enjoy the dinner last night? That place was amazing!  
+Speaker 2: It was incredible! Thank you for finding such a great spot. I'm definitely adding it to my list of favorites.  
+Speaker 1: Glad you liked it! By the way, we ended up splitting the bill among everyone, and your share amounts to $45.  
+Speaker 2: Sure, no problem! I'll transfer it over to you right now.  
+Speaker 1: Awesome, thanks. Let's definitely plan another outing soon!  
+Speaker 2: Absolutely, maybe next weekend!  
+
+================================  
+
+Amount: $85.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey, I scored those concert tickets! Can you believe we finally got seats?  
+Speaker 2: No way! That's so exciting. What were the final costs?  
+Speaker 1: It came to $170 total, so your half is $85.  
+Speaker 2: Got it, I'm sending the payment right now. Can't wait for the show!  
+Speaker 1: Me too, it's going to be epic. Thanks for settling up so quickly.  
+Speaker 2: No worries, all set. Let's make sure we get there early.  
+
+================================  
+
+Amount: $23.50  
+Description: Movie Night Snacks  
+History:  
+Speaker 1: Movie night was such a blast! The snacks were a perfect choice.  
+Speaker 2: I'm glad to hear it! I wasn't sure about the new popcorn flavor.  
+Speaker 1: Oh, it was a hit. Mind if I send you a quick request to cover your portion of the snacks?  
+Speaker 2: Of course, how much were they in the end?  
+Speaker 1: It was $23.50 for your share.  
+Speaker 2: No problem, I'll send it right over. Can't wait for our next movie night!  
+================================  
+
+Amount: $7.50  
+Description: Coffee Run  
+History:  
+Speaker 1: Thanks for grabbing coffee this morning.  
+Speaker 2: No problem, just wanted to help start your day right!  
+Speaker 1: I really owe you for this.  
+Speaker 2: It was $7.50. If you Venmo me, we�re even.  
+Speaker 1: Done and done!  
+================================  
+
+Amount: $200.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Wow, last night�s concert was amazing!  
+Speaker 2: Totally! The band was phenomenal live.  
+Speaker 1: Thanks for buying the tickets. How much do I owe you?  
+Speaker 2: $200, if you can transfer that, we�re good.  
+Speaker 1: Just transferred, can�t wait for the next one!  
+================================  
+
+Amount: $30.00  
+Description: Gas Money  
+History:  
+Speaker 1: Thanks for driving us to the beach!  
+Speaker 2: It was a great trip, wasn�t it?  
+Speaker 1: For sure. I need to catch some more waves next time.  
+Speaker 2: Yeah, and maybe pack more snacks! Could you send over $30 for gas?  
+Speaker 1: Of course, just sent it.  
+================================  
+
+Amount: $120.00  
+Description: New Headphones  
+History:  
+Speaker 1: Did you get the headphones I recommended?  
+Speaker 2: Yes, they�re awesome! Thanks for picking them up.  
+Speaker 1: No problem. Can you send me the $120 for them?  
+Speaker 2: Sending right now, these were worth it!  
+================================
+Amount: $45.50  
+Description: Paint supplies  
+History:  
+Speaker 1: Hey Alex, did you manage to get all the stuff we need for the project?  
+Speaker 2: Yup, I got everything from the art store!  
+Speaker 1: That's awesome. Did it cost a lot?  
+Speaker 2: It came to about $45.50 for all the paints and brushes.  
+Speaker 1: Cool, just let me know how much I owe you.  
+Speaker 2: Could you Venmo me $45.50? I bought it all together.  
+Speaker 1: Sure thing! I'll send it right over.
+================================
+Amount: $45.50  
+Description: Dinner Outing  
+History:  
+Speaker 1: Hey Alex! Did you enjoy last night's outing?  
+Speaker 2: Absolutely! The new Italian place was amazing!  
+Speaker 1: Yeah, that lasagna and tiramisu were on point.   
+Speaker 2: Oh, speaking of which, can you PayPal me $45.50 for dinner?  
+Speaker 1: Oh sure, let me do that right now!   
+Speaker 2: Thanks! And next time, drinks are on me.  
+Speaker 1: Deal! Looking forward to it.
+================================
+Amount: $55.00  
+Description: Piano Lesson  
+History:  
+Speaker 1: Hey Jess, how are your weekends looking these days?  
+Speaker 2: Pretty booked with piano lessons!  
+Speaker 1: Oh nice! Still learning those classical pieces?  
+Speaker 2: Yep, but I actually asked for help on a jazz composition this week!   
+Speaker 1: Sounds cool! Oh, before I forget, can you Venmo me for last week�s lesson?  
+Speaker 2: Of course! Is it $55 again?  
+Speaker 1: Yes, same as always.  
+Speaker 2: Done! Sent it your way!  
+================================
+Amount: $45.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Alex, did you enjoy the concert last night?  
+Speaker 2: It was amazing! Thanks for getting the tickets.  
+Speaker 1: No problem! The band was incredible live.  
+Speaker 2: Absolutely. By the way, could you send me $45 for your ticket?  
+Speaker 1: Sure thing! Sending it over now.  
+Speaker 2: Great, thanks! Let's do this again sometime.  
+================================
+Amount: $45.00  
+Description: Movie Night  
+History:  
+Speaker 1: Hey Alex, did you enjoy the movie last night?  
+Speaker 2: Absolutely, it was amazing! Thanks for organizing it.  
+Speaker 1: No worries, I�m glad you liked it! By the way, could you send me $45 for the tickets?  
+Speaker 2: Of course, I�ll send it over right now. Thanks again!  
+================================  
+
+Amount: $25.50  
+Description: Groceries  
+History:  
+Speaker 1: Hey Jamie, remember our grocery run on Sunday?  
+Speaker 2: Oh yes, I remember. Did we get all the things you needed?  
+Speaker 1: Yup, we did! Can you send me $25.50 for your share?  
+Speaker 2: Sure thing, I�ll do it right away. Thanks for keeping track!
+================================  
+Amount: $30.00  
+Description: Book Purchase  
+History:  
+Speaker 1: Hey, have you started the book yet?  
+Speaker 2: Not yet, but I'm planning to read it this weekend.  
+Speaker 1: Great! Could you send me $30 for your copy?  
+Speaker 2: Yes, sure. I�ll transfer it today. Thanks for ordering it!  
+================================  
+
+Amount: $80.00  
+Description: Rent Share  
+History:  
+Speaker 1: Hi Taylor, did you manage to settle the rent for this month?  
+Speaker 2: Yes, I handled it with the landlord.  
+Speaker 1: Awesome! Your share is $80. Could you send it to me?  
+Speaker 2: Of course. I'll transfer it right now. Thanks for managing the payments!  
+================================
+Amount: $27.00  
+Description: Book purchase  
+History:  
+Speaker 1: Hey Alex, did you get the chance to start the book for our book club?  
+Speaker 2: Oh, not yet. I was planning to order it today.  
+Speaker 1: Oh, by the way, I bought two copies since there was a discount. I can give you one.  
+Speaker 2: That sounds perfect! How much do I owe you?  
+Speaker 1: Just 27, and you can pay me whenever.  
+Speaker 2: Great, I'll Venmo you right now! Thanks, Jamie.
+Amount: $45.00  
+Description: Birthday Gift  
+History:  
+Speaker 1: Hey Jamie, have you decided what to get Josh for his birthday?  
+Speaker 2: Yeah, I ordered a cool board game he�s been eyeing for months.  
+Speaker 1: Nice choice! How much did it come up to?  
+Speaker 2: It was $90, so $45 each if we split it.  
+Speaker 1: Absolutely, I'll send you my part right now. Let�s hope he loves it!  
+Speaker 2: Great, thanks! I'm sure he will.    
+================================
+Amount: $75.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Jess, did you get those tickets for the concert?  
+Speaker 2: Yeah, I grabbed them this morning! It's going to be so much fun.  
+Speaker 1: Awesome! I can't wait. By the way, how much do I owe you for my ticket?  
+Speaker 2: It was $75 for your share.  
+Speaker 1: Great, I'll send you the money right now. What's your Venmo username again?  
+Speaker 2: It's @JessMusic21. Thanks!  
+Speaker 1: Got it. Sent! I'm stoked for the show!  
+Speaker 2: Me too, it's going to be epic!
+================================
+Amount: $45.00  
+Description: Shared Uber Ride  
+History:  
+Speaker 1: Hey Alex, did you enjoy the concert last night?  
+Speaker 2: It was amazing! Thanks for organizing everything.  
+Speaker 1: No problem at all. Glad you could make it!  
+Speaker 2: By the way, when you get a chance, could you send me $45 for the Uber ride we split?  
+Speaker 1: Of course! I'll send it over now.  
+Speaker 2: Thanks! Looking forward to the next adventure.  
+Speaker 1: Me too! Let's plan something soon.  
+================================
+Amount: $45.00  
+Description: Uber ride  
+History:  
+Speaker 1: Hey, did you get back home last night okay?  
+Speaker 2: Yeah, I did! Thanks for sharing the Uber. It was quite late.  
+Speaker 1: No problem. I was exhausted from the concert.  
+Speaker 2: Same here! Speaking of which, can you cover your part of the Uber? It was $45 in total.  
+Speaker 1: Absolutely, I'll send it now!  
+Speaker 2: Thanks! Let's do it again sometime, minus the late-night struggle though.  
+Speaker 1: Definitely, next time we plan better!
+Amount: $45.00  
+Description: Groceries  
+History:  
+Speaker 1: Hey Alex, did you do the grocery run today?  
+Speaker 2: Yep, just got back. Got everything on the list.  
+Speaker 1: Great! Did you use the coupons we had?  
+Speaker 2: Yeah, they saved us a bit. By the way, could you send me $45 for your half?  
+Speaker 1: Sure thing! I'll Venmo it right now.  
+Speaker 2: Perfect, thanks!  
+
+================================
+
+Amount: $28.50  
+Description: Gas Reimbursement  
+History:  
+Speaker 1: Hey Jamie, just checking, did you drive to the meeting yesterday?  
+Speaker 2: Yeah, I did. The traffic was crazy!  
+Speaker 1: I can imagine. How much did it cost you in gas?  
+Speaker 2: I filled the tank with $57, can you send me half for your part of the ride?  
+Speaker 1: Of course, I'll Venmo you $28.50 right now. Thanks for driving!  
+
+================================
+
+Amount: $90.00  
+Description: Concert Ticket  
+History:  
+Speaker 1: Hey Tanya, are you excited for the concert next week?  
+Speaker 2: Absolutely! I can�t wait to see them live. Did you manage to get our tickets?  
+Speaker 1: Yes, I got them as soon as they went on sale. Just need you to send me the $90 if that's alright.  
+Speaker 2: Totally, just Venmoed you, thanks for snagging those tickets.  
+
+================================
+
+Amount: $62.00  
+Description: Birthday Present  
+History:  
+Speaker 1: Hey Chris, have you thought about what to get Sarah for her birthday?  
+Speaker 2: Yeah, I was thinking we should get her that book set she�s been wanting.  
+Speaker 1: That�s a great idea! I�ll pick it up. Do you mind splitting the cost?  
+Speaker 2: Not at all, totally fair. How much is my share?  
+Speaker 1: It�s $62, I'll send you the Venmo request.  
+Speaker 2: Perfect, I'll approve the payment right away.  
+
+================================
+Amount: $55.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey, did you manage to snag those concert tickets for Saturday?  
+Speaker 2: Yep, got them! It was a close call; they almost sold out.   
+Speaker 1: Awesome! I can't wait to see The Midnight.   
+Speaker 2: Same here. By the way, the total for my card was $110, so if you could send me $55, that'd be great.  
+Speaker 1: Sure thing! I'll transfer it now.  
+Speaker 2: Thanks! Let the countdown to the concert begin!   
+Speaker 1: Absolutely, front row here we come!
+Amount: $45.00  
+Description: Birthday Gift  
+History:  
+Speaker 1: Hi Alex, did you enjoy the party last night?   
+Speaker 2: It was amazing! Sarah really went all out with the decorations and food.  
+Speaker 1: Totally, she always knows how to host a great event.  
+Speaker 2: Speaking of which, we chipped in to buy her a nice gift. Can you send me $45 for your share?  
+Speaker 1: Sure thing, sending it over now.  
+
+================================
+Amount: $45.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Did you get the tickets for the concert next week?  
+Speaker 2: Yup, I bought them! It�s going to be epic.  
+Speaker 1: So excited! How much do I owe you?  
+Speaker 2: Just $45 for your ticket.  
+Speaker 1: Awesome, I'll Venmo you right now.  
+Speaker 2: Thanks! Can't wait to see the band live!  
+================================  
+
+Amount: $22.50  
+Description: Shared Cab Ride  
+History:  
+Speaker 1: Thanks for sharing the cab last night.  
+Speaker 2: No problem, it worked out great splitting it.  
+Speaker 1: How much was my half?  
+Speaker 2: Your share is $22.50.  
+Speaker 1: Got it, transferring the money now.  
+Speaker 2: Cool, let's do this again sometime!  
+================================  
+
+Amount: $30.00  
+Description: Birthday Gift  
+History:  
+Speaker 1: Did you find something for Julie�s birthday?  
+Speaker 2: Yes, got her a nice necklace. We split the cost, right?  
+Speaker 1: Yeah, how much per person?  
+Speaker 2: It'll be $30 each.  
+Speaker 1: Okay, just sent you the money.  
+Speaker 2: Perfect, she�ll love it!  
+================================  
+
+Amount: $19.95  
+Description: Pizza Night  
+History:  
+Speaker 1: Those pizzas were delicious last night!  
+Speaker 2: Absolutely, those toppings were on point.  
+Speaker 1: How much do I owe you for them?  
+Speaker 2: Just $19.95.  
+Speaker 1: Alright, I'll send it over.  
+Speaker 2: Cool, let�s do another pizza night soon!  
+================================
+Amount: $75.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Emily, did you manage to get those tickets for the concert?  
+Speaker 2: Yeah, I snagged them as soon as they went on sale. We're all set for next Friday!  
+Speaker 1: Awesome! I can't wait. How much do I owe you for my ticket?  
+Speaker 2: It'll be $75.00.  
+Speaker 1: Great, I'll send it over right now through Venmo.  
+Speaker 2: Perfect, thanks! Looking forward to it!  
+================================
+Amount: $45.00  
+Description: Movie night snacks  
+History:  
+Speaker 1: Hey Alex, did you enjoy the movie last night?  
+Speaker 2: Absolutely! It was such a great choice. Those action scenes were intense.  
+Speaker 1: I know, right? I can't believe how good the sound was in the theater.  
+Speaker 2: For sure. By the way, you covered all the movie snacks yesterday. Mind sending me the $45 for them?  
+Speaker 1: Oh right, thanks for reminding me! I'll send it your way now.  
+Speaker 2: Awesome, thanks! Let's definitely do that again sometime.
+================================
+Amount: $45.00  
+Description: Birthday Gift  
+History:  
+Speaker 1: Hey Jamie, how was your weekend?  
+Speaker 2: It was good! We went out for Kelly's birthday.  
+Speaker 1: Nice! I bet that was fun. Did you get her a gift?  
+Speaker 2: Yeah, we all chipped in for a spa voucher.  
+Speaker 1: Oh, sounds perfect. How much do I owe you for that?  
+Speaker 2: It's $45. Can you send it when you get a chance?  
+Speaker 1: Sure, I'll do it right now.
+================================
+Amount: $45.50  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Jess, did you get the tickets for Saturday night?  
+Speaker 2: Yes, I got them! Front row seats, can you believe it?  
+Speaker 1: Wow, that's awesome! This is going to be such a great concert.  
+Speaker 2: Absolutely, I've been looking forward to it all week.  
+Speaker 1: How much do I owe you for the ticket?  
+Speaker 2: It's $45.50 if you can Venmo it to me.  
+Speaker 1: Sure thing, sending it over right now! Can't wait for the show.     
+================================
+Amount: $25.00  
+Description: Movie Tickets  
+History:  
+Speaker 1: Hey Alex, did you enjoy the movie last night?  
+Speaker 2: Absolutely, it was amazing! The special effects were out of this world.  
+Speaker 1: I know, right? Thank you for grabbing the tickets in advance.  
+Speaker 2: No problem! By the way, could you shoot me $25 for your ticket?  
+Speaker 1: Oh yeah, totally forgot about that. Sending it your way now.   
+================================
+Amount: $45.00  
+Description: Shared Taxi Fare  
+History:  
+Speaker 1: Hey Alex, did you manage to catch the game last night?  
+Speaker 2: Yeah, it was epic! Totally worth watching.   
+Speaker 1: Agreed! Speaking of last night, thanks for splitting the taxi with me.   
+Speaker 2: No worries. By the way, could you send me $45 for your share?   
+Speaker 1: Oh, absolutely! Let me do that right now.  
+Speaker 2: Thanks! It's always fun going out with you.  
+Speaker 1: Same here! Let�s plan another outing soon.  
+================================
+Amount: $45.50  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Alex, did you get the tickets for Saturday's concert yet?  
+Speaker 2: Yup, I got them last night. They were selling out fast!  
+Speaker 1: Oh great, I'm super excited to go. How much do I owe you for my ticket?  
+Speaker 2: It's $45.50 for each ticket. Can you send that over when you get a chance?  
+Speaker 1: Absolutely, I'll send it via PayPal in a bit. Thanks for locking those in!  
+Speaker 2: No problem, it's going to be an amazing show. Can't wait!
+Amount: $25.50  
+Description: Movie Tickets  
+History:  
+Speaker 1: Hey Alex, did you enjoy the movie last night?  
+Speaker 2: Totally! I can't believe that twist at the end.  
+Speaker 1: I know, right? It was mind-blowing!  
+Speaker 2: By the way, I got the tickets for us yesterday. Do you mind sending me $25.50 for your half?  
+Speaker 1: Oh, absolutely! I'll send it over right now. Thanks for grabbing those.  
+Speaker 2: No problem, anytime! Want to catch another film next week?  
+Speaker 1: Definitely! Let's keep an eye on the new releases.
+================================
+Amount: $49.99  
+Description: Groceries  
+History:  
+Speaker 1: Hey Jess, did you manage to get everything from the store today?  
+Speaker 2: Hi Alex, yeah, I got all the items we listed. They had some great deals too!  
+Speaker 1: Awesome. Thanks for doing the grocery run this week.  
+Speaker 2: No problem! Could you please send me $49.99? That's your half.  
+Speaker 1: Sure thing. I'll transfer it right now.  
+================================  
+Amount: $85.00  
+Description: Utility bills  
+History:  
+Speaker 1: Hey Jamie, the new utility bill just came in. It's a bit higher this month.  
+Speaker 2: Hi Pat, really? Do you know why it's increased?  
+Speaker 1: I think it's due to the heating. It�s getting colder lately.  
+Speaker 2: Ah, that makes sense. Remind me, how much do I owe you for this month?  
+Speaker 1: Your share is $85.00.  
+Speaker 2: Alright. I'll transfer it to your account today.  
+================================  
+Amount: $12.50  
+Description: Movie ticket  
+History:   
+Speaker 1: Hey! That movie was epic, wasn't it?  
+Speaker 2: Totally! I thoroughly enjoyed it. Thanks for inviting me.  
+Speaker 1: Absolutely. Could you chip in for the ticket I got for you?  
+Speaker 2: Sure, how much?  
+Speaker 1: It's $12.50.  
+Speaker 2: No worries. Sending it over right now.  
+================================  
+Amount: $35.00  
+Description: Pizza night  
+History:  
+Speaker 1: Last night was fun! Those pizzas were amazing.  
+Speaker 2: Yeah, I had a great time. Thanks for ordering.  
+Speaker 1: Of course! Can you split the cost with me? It came to $70.00 in total.  
+Speaker 2: Sure thing. So that's $35.00 each?  
+Speaker 1: Yep, exactly.   
+Speaker 2: No problem, I'll venmo you now.  
+================================
+Amount: $55.00  
+Description: Concert Tickets  
+History:  
+Speaker 1: Hey Jess, are you going to the concert next weekend?  
+Speaker 2: Of course, I wouldn't miss it! Are you going too?  
+Speaker 1: Yep! I was thinking about getting the tickets today.  
+Speaker 2: Awesome! Can you grab one for me too? I'll pay you back.  
+Speaker 1: Sure! They're $55 each. Do you want to sit in the same area?  
+Speaker 2: Absolutely, I want to dance with you to our favorite songs!  
+Speaker 1: Haha, sounds perfect. Sending the payment request now.  
+Speaker 2: Just got it, thanks for taking care of the tickets.  
+================================
+Amount: $45.00  
+Description: Movie Night Tickets  
+History:  
+Speaker 1: Hey Alex, did you enjoy the movie last night?  
+Speaker 2: It was awesome! The action scenes were mind-blowing.  
+Speaker 1: Totally, it was worth the hype.  
+Speaker 2: By the way, you owe me $45 for the tickets.  
+Speaker 1: Oops, sorry I forgot. Sending it right now!  
+================================

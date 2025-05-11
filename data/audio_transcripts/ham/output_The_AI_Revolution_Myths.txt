@@ -1,0 +1,220 @@
+
+Speaker 1: So you were the very first Harvard student to major in computer science.
+Speaker 2: In the early 80s, we didn't know, or at least Harvard wasn't sure, whether computer science is a fad or a bona fide academic discipline. And by the time I came around, they figured out this is a real thing. I was the first person to get their paper form signed for computer science major.
+Speaker 1: I hope you've put that in a frame somewhere. So for 40 years, you've been building and studying AI systems from both academic
+Speaker 2: Thank you for being here.
+Speaker 1: and entrepreneurial perspectives. You're the former CEO for artificial intelligence founded by the late Paul Allen. And in early 2024, you founded True Media, which we'll discuss. So thank you for being here.
+Speaker 2: It's a pleasure. The animating theme is AI for the common good.
+Speaker 1: Okay, we'll roll with that. You've mentioned that we're in a race for AI supremacy. How high are the stakes?
+Speaker 2: Because of national security and because of economic concerns, the stakes could not
+Speaker 1: What are the biggest myths about AI?
+Speaker 2: be higher. The biggest myth about AI is the one promulgated by Hollywood and the Terminator, that AI is a being, a monster, and that it's out. It's not a being. It's not out to get us. It's a tool. So be careful. You could get hurt. I think it's much more likely that AI will save us from climate change, from pandemics, from superbugs. And I want us to use it for the best for humanity.
+Speaker 1: We're the best of humanity. Do you trust AI systems?
+Speaker 2: Absolutely not.
+Speaker 1: Absolutely.
+Speaker 2: In fact, I like to say, never trust an AI.
+Speaker 1: System. You can use it.
+Speaker 2: But you have to be very careful to verify the output, make sure that what you're getting is real and trustworthy.
+Speaker 1: On a scale of one to 10, how powerful is today's AI
+Speaker 2: AI today, I would give it a 7.4.
+Speaker 1: relative to where it could go? Five.
+Speaker 2: A lot of people have an overblown notion of it.
+Speaker 1: Six.
+Speaker 2: It's much better than it was even just three years ago. But as far as where it can go, the sky's the limit, but it will take time. Never mistake a clear view for a short distance.
+Speaker 1: Do you believe that AI can genuinely understand context?
+Speaker 2: AI does understand context, and we see examples of that every day when we give nuanced queries to chat GPT. The thing is, it has what's called the jagged frontier. That means that sometimes it understands things really well, and you're like, this is amazing.
+Speaker 1: No.
+Speaker 2: And then the very next query, it's acting like some alien from another planet doesn't understand things at all. That's why it's jagged. I think that AI will augment human creativity, and it's already doing so.
+Speaker 1: Great, terrible, great. Can AI... Creativity. I think...
+Speaker 2: So writers, artists, many of us are using it to become more productive and more creative.
+Speaker 1: Creative. Is it possible for AI to be unbiased? No.
+Speaker 2: The short answer is that it's incorporating the data that it accumulated, and that data contains biases. And it'll often amplify those. So AI is biased. The good news is if you just give it a different prompt, it can change its bias on a dime.
+Speaker 1: How important is transparency in AI algorithms?
+Speaker 2: Transparency is very important, but it's also very hard. You've got this neural network with billions of parameters. How the heck do you understand what's going on in there?
+Speaker 1: A lot of us can't.
+Speaker 2: I think that we need to identify the most dangerous outcomes, for example, using AI
+Speaker 1: What are reasonable and sensible guardrails when it comes to AI?
+Speaker 2: to construct bioweapons. And we need to ensure that queries along those lines are not answered.
+Speaker 1: So it's...
+Speaker 2: It's identify the most worrying outcomes and put in guardrails to prevent those from coming forward.
+Speaker 1: Forward. Do we have to build AI systems with an off switch?
+Speaker 2: It's absolutely essential.
+Speaker 1: It is...
+Speaker 2: So I wrote in the New York Times in 2017 that AI systems should have an impregnable off-switch. And that's one of the things that will help to keep us safe as the technology becomes more powerful and has increased autonomy. I think it's good because it reduces some of the liability concerns.
+Speaker 1: Do you think big tech would like that? I think they would.
+Speaker 2: And it's a safety device. It doesn't slow things down.
+Speaker 1: We'll make sure that AI software...
+Speaker 2: It doesn't create additional expense. It's just a system of the last resort. So the same way that we can take our computer and just unplug it from the wall, make sure that we have an off-switch for our AI.
+Speaker 1: What are some of the most interesting use cases that you're hearing with AI right now?
+Speaker 2: AI is the new electricity, Andrew Ng said, so literally in every domain of discourse from human sexuality to education to HR and finance to high-frequency trading, people
+Speaker 1: It's...
+Speaker 2: are using AI all over the place. One of my favorite examples is people using it to practice their negotiation skills. They can put the AI as an adversary. They can put the AI to argue better on their behalf.
+Speaker 1: But they're not just...
+Speaker 2: Using it as a fan.
+Speaker 1: Search engine.
+Speaker 2: They're using it for role play. I think that actually people are missing a key point here, which AI can be used for
+Speaker 1: Optimistic or pessimistic about AI deepening inequality? Which is... Which is...
+Speaker 2: assistive intelligence. If we think about people who are disabled in wheelchairs with difficulty seeing and hearing and so on, AI can be a tremendous boon to them. So I view AI as having a tremendous potential to help some of the most marginalized communities in the world. Now, when it comes to income inequality, of course, we have some challenges.
+Speaker 1: AI is being used to optimize drilling and fracking. Why are you optimistic that AI can help tackle climate change? Climate...
+Speaker 2: Climate change is a huge problem with many dimensions, but one really important one is better carbon sequestration, which requires tremendous innovation. Basically, the technologies that we have today will not solve the problem fast enough. We need to invent new technologies and new science, and AI is fantastic in helping our leading scientists do that.
+Speaker 1: What are some interesting use cases that you've heard companies try out for better or for worse?
+Speaker 2: There are so many, for example, regulatory compliance. There's so much difficult and complex compliance information. And guess what? AI is really good at reading through documents and figuring out how to do compliance. We have legal outcomes where law firms are using AI to generate, but more efficiently, to read and manage contracts. So legal departments are using it. I would say in coding, we're starting to be more productive.
+Speaker 1: What are some of the most interesting use cases that you've heard companies try out for better or for worse?
+Speaker 2: It's really the case that in every single department of the corporation, from HR to the janitorial staff, there are opportunities to use AI.
+Speaker 1: To improve performance. How does regulatory capture by lobbyists
+Speaker 2: A lot of the regulations that we've seen have been shaped by large tech to their benefit
+Speaker 1: affect AI governance?
+Speaker 2: and to the detriment of startups. For that reason, I'm quite skeptical about some of the regulatory efforts that we're
+Speaker 1: What do you expect might happen
+Speaker 2: seeing.
+Speaker 1: under the Trump administration? It's...
+Speaker 2: It's very hard to predict, isn't it, that Elon Musk's companies will fare very well?
+Speaker 1: I expect... But...
+Speaker 2: In a less cynical sense, I do see some very well-intentioned and talented folks from Silicon Valley and from the tech industry moving into government and trying to have a positive impact.
+Speaker 1: If you were able to enact one policy that you think would help AI at this stage, but not stifle innovation, what would that be?
+Speaker 2: I would say that AI has to be labeled, that if you pick up your phone and you hear a voice
+Speaker 1: So that... So that...
+Speaker 2: on the other end, you don't know whether that's a person or a machine. So AI should identify itself. When you get an email or a text message on the internet, who knows who's at the other end? Again, AI should self-identify.
+Speaker 1: Well, then we're gonna jump into deepfakes and misinformation right now. Can you please tell us about TrueMedia?
+Speaker 2: Truemedia.org is a nonprofit that I founded with the backing of Garrett Camp, the co-founder of Uber, to fight political deepfakes in 2024, an election year all over the globe.
+Speaker 1: I understand it was used in countries all around the world.
+Speaker 2: We are very pleased that in Indonesia, in India, in Europe, in numerous countries, news organizations and fact-checkers used our tool to identify thousands of fake items as fake. It was used to take down Russian disinformation sites. And of course, it was used in our own election in a variety of ways.
+Speaker 1: We still have tools like TrueMedia to help news organizations and other entities identify deepfakes. We...
+Speaker 2: We are open-sourcing our models to make them broadly available, as well as our data and resources. So we will have that. I think we could have more because a lot of the resources are behind the paywall under lock and key. And we need things that are available to news organizations that don't necessarily have a deep pocket.
+Speaker 1: Is it obvious for the average person to spot a deepfake? It is...
+Speaker 2: It's very non-obvious. And there's been a bunch of research that shows that people's ability to detect whether something is fake or real is no better than their ability to predict and understand the
+Speaker 1: Do you think corporations...
+Speaker 2: importance of the information.
+Speaker 1: importance of identifying deepfakes and misinformation? I think they're...
+Speaker 2: But I think it's going to get worse before it gets better. And we have the cases of money being wired out of a corporation due to a fake Zoom call.
+Speaker 1: I think they're...
+Speaker 2: And I think we're going to have more problems like this before people are fully on board with the need to determine whether a communication video, audio or otherwise is fake or real.
+Speaker 1: Can you give us an example of a deepfake that could cause economic consequences?
+Speaker 2: I think we've seen one. There was a photo a few years ago propagated of the Pentagon being bombed that caused the glitch in the market. I think there are many other such things. Our economy and the markets are so quick to react to new information that we have to watch
+Speaker 1: Do you see AI as replacing jobs? Do you see AI as replacing new information? Watch out.
+Speaker 2: and determine whether that information is fake or real.
+Speaker 1: Do you see AI as replacing jobs?
+Speaker 2: What we see right now is AI augmenting people by automating tasks.
+Speaker 1: That's...
+Speaker 2: Over time, it will replace some jobs, particularly ones that are very rote.
+Speaker 1: Optimistic about the use of AI in education.
+Speaker 2: I am very optimistic about it because particularly in the developing world, we don't have the
+Speaker 1: I think it's...
+Speaker 2: resources to provide the quality of education that people need and AI can help address that.
+Speaker 1: Press that. What industries do you think may be impacted by AI the most in the coming years?
+Speaker 2: Every single one. I think that the more regulated and entrenched industries will be slower.
+Speaker 1: I think...
+Speaker 2: Ones that have a physical nature like construction of houses and bridges will be slower. But I think finance, I think knowledge work of many kinds is going to be impacted very
+Speaker 1: I think...
+Speaker 2: quickly and already is.
+Speaker 1: What about your field, computer science?
+Speaker 2: So, coding is already becoming faster and more productive.
+Speaker 1: Should coding still be taught in college? So...
+Speaker 2: It still needs to be taught because the fact of the matter is even our most advanced AIs cannot write complex original programs. So, coding is not going to disappear, but it's going to be on steroids. We are always impatient, right?
+Speaker 1: Oh, wow. What does that look like?
+Speaker 2: When is going to be the next step? We are always impatient, right? When is going to be the next release of the software? When are they going to fix this bug? Why can't they build this website more quickly? Now, things are going to start to accelerate.
+Speaker 1: Do you think that could make it less reliable? I think...
+Speaker 2: It could make it less reliable, so we have to put the appropriate tests in place. The good news is that quality assurance of software is in itself a software process. So, quality assurance is going to get better as well.
+Speaker 1: Why didn't we see more targeted attacks during the elections in the United States? That's...
+Speaker 2: It's a mystery to me. In the past, we used to have deterrence, right? If state actors intervened too much in our process, we had ways of getting back at them. Now, it's so easy to do some of this disinformation, deepfake, cyber attack. I'm surprised we didn't see more of that. What we did see on the rise is ransomware attacks, and that's continuing to rise, and it's a major concern.
+Speaker 1: Did social media platforms play a role in minimizing targeted attacks, do you think?
+Speaker 2: What do you think is the best way to fight ransomware?
+Speaker 1: No. So you talk to YouTube and big tech executives all the time. Are they ready to counteract potential threats?
+Speaker 2: I think they are very well positioned to fight the last war. So, if there is a single video or image that is having a disproportionately bad impact, they're well positioned to take it down or to downweight it.
+Speaker 1: I think...
+Speaker 2: But a concerted attack of thousands of deepfakes being propagated by hundreds of thousands of fake accounts, I don't think we're ready for.
+Speaker 1: What role should corporations have in pushing for regulation of AI? I think that...
+Speaker 2: Corporations benefit from a rational, meaning not too much, not too little, unified framework.
+Speaker 1: But...
+Speaker 2: So, when you have no regulation, you find a patchwork of local and state and city regulations, which are problematic.
+Speaker 1: I think...
+Speaker 2: So, I think what we ought to aim for is not more regulation, but better and more unified regulation.
+Speaker 1: What are you seeing so far? Are any companies leading the charge in a responsible way from your lens? I have...
+Speaker 2: I haven't seen a tremendous amount of corporate leadership on AI regulation.
+Speaker 1: Could you talk about some failures you've seen?
+Speaker 2: Well, for example, in the world of deepfakes, corporations banded together to produce the C2PA,
+Speaker 1: I think...
+Speaker 2: basically content provenance, and unfortunately, that's highly impractical. What we really need is decisions on how information is propagated across social media, and we have not seen social media networks, be they meta or X or TikTok, step up to that.
+Speaker 1: This challenge. As companies look to address the use of AI
+Speaker 2: I think we need to lead the CEO because the potential here is for lower costs and higher revenue, much faster time to market.
+Speaker 1: in their own enterprises, who should be leading the charge? Is it the CIO, the CEO, general counsel?
+Speaker 2: So, this isn't something you delegate to any of those roles.
+Speaker 1: Absolutely. Do you think the average CEO understands AI enough
+Speaker 2: I think the CEO needs to be leading the charge because there's so much potential there. I think the average CEO should educate themselves, so they do. And how? Well, they could talk to. I do think that it's a conversation that needs to be had. I think it's a conversation that needs to be had.
+Speaker 1: to do that?
+Speaker 2: I think it's a conversation that needs to be had.
+Speaker 1: How should they do that?
+Speaker 2: I think it's a conversation that needs to be had.
+Speaker 1: Me. Okay.
+Speaker 2: I do think that it's a conversation that we ought to be having both with AI experts, but also with just gaining hands-on literacy with the machines. So, if you're an executive and you're not spending quality time with Chad GPT, Claude, or what have you, trying to figure out how to optimize aspects of your business, what it can and can't do, you're missing an opportunity.
+Speaker 1: Are companies prepared to educate their employees on AI?
+Speaker 2: This is very fresh technology, and we're building this airplane as we're flying it.
+Speaker 1: This is...
+Speaker 2: So, no, I wouldn't say that they're ready, but the tools and the curricula are emerging.
+Speaker 1: Would you say the... more confused than you would expect right now or less confused?
+Speaker 2: I would say that there's more inertia than I would have expected.
+Speaker 1: I would...
+Speaker 2: It's proceeding slowly for a variety of reasons.
+Speaker 1: Reasons. And some...
+Speaker 2: Some of it is because it's not turnkey.
+Speaker 1: It's hard. It's...
+Speaker 2: So, when we say AI is the new electricity, that suggests that it's plug-and-play. You just stick something into the wall, and AI flows out. It is more complicated.
+Speaker 1: than that.
+Speaker 2: AI-powered weapons are increasingly fast, requiring an increasingly fast response, right?
+Speaker 1: So when it comes to warfare, what potential consequences could arise from unchecked proliferation of AI-powered weapons?
+Speaker 2: A guided missile is coming in. You don't have time to react. Swarms of drones are coming in. They're coordinating. You have to launch a response.
+Speaker 1: I would say...
+Speaker 2: So, if the pace of warfare and the pace of AI is slow, you have to launch a response. So, if the pace of warfare and the pace of weapons gets faster and faster, that leads us to have increased automation, which is very worrying, because, as we know, AI is brittle. It can make terrible decisions.
+Speaker 1: Mistakes. What ethical considerations arise out of the development of autonomous weapon systems? It's incredibly...
+Speaker 2: It's really important to distinguish between intelligence,
+Speaker 1: Systems.
+Speaker 2: increasingly sophisticated.
+Speaker 1: They're...
+Speaker 2: It could be increasingly accurate.
+Speaker 1: An autonomous...
+Speaker 2: They make a decision to take a human life without a human in the loop. They decide on their own. I'm very much pro-intelligence systems, intelligent weapons even, but I'm very opposed to autonomous weapons, because I think a human still has to make that weighty moral decision.
+Speaker 1: Decision.
+Speaker 2: My broker and told them to disable it, because I don't trust it.
+Speaker 1: Are you comfortable enough with AI to use AI-powered voice login for your retirement accounts?
+Speaker 2: I asked it, how do you know that my voice is my password?
+Speaker 1: I call...
+Speaker 2: They said, well, we use AI. And I said, no, I study AI, and I don't trust it, so please disable it. And I would recommend that to all of you.
+Speaker 1: Okay. Where does liability lie when AI fails, such as in the case of a self-driving car accident,
+Speaker 2: There are different cases, and sometimes it's the manufacturer,
+Speaker 1: an inaccurate credit assessment,
+Speaker 2: sometimes it's the creator of the software system.
+Speaker 1: or perhaps... Criminal sentencing recommendation?
+Speaker 2: It's a complicated issue. But the overriding principle, which is really important, is that it needs to end up with a person or a corporation. My AI did it is not an excuse. It's not an excuse. It's not an excuse. It's not an excuse. It's not an excuse. It's not an excuse. It's not an excuse. It's not an excuse. My AI did it is not an excuse.
+Speaker 1: Excuse. Legal cases, are they in play right now? I'm watching...
+Speaker 2: In cases, for example, the copyright issue, which is a very important one for society, right, between the OpenAI and the New York Times.
+Speaker 1: And so on. So when it comes to the media, where do you expect the New York Times case will go? I think...
+Speaker 2: I think that it's been well documented that OpenAI and other companies overstepped and violated copyright law.
+Speaker 1: What are the implications for media right now?
+Speaker 2: Media needs to decide for their content,
+Speaker 1: I think...
+Speaker 2: what are they willing to put out there that AI can train on, and what they want to keep proprietary. And then they need to consider how to make sure that their wishes are
+Speaker 1: For bait. Looking beyond deepfakes misinformation, what emerging risks do you see on the horizon? And how can businesses start preparing now?
+Speaker 2: Cybersecurity is a huge risk that comes to mind. So phishing attacks can become more sophisticated. Probing of holes in your network and in your software
+Speaker 1: I think...
+Speaker 2: can become more sophisticated using AI. So I think that we need to ramp up our AI cybersecurity defense to prepare for more AI cybersecurity offense.
+Speaker 1: You've expressed both concern and optimism
+Speaker 2: What gives me hope is the fact that there are so many things
+Speaker 1: about AI's future. What gives you hope?
+Speaker 2: that we as humans do so badly, like driving, which causes 40,000 deaths in our highways each year. Like hospital work, where the third leading cause of death
+Speaker 1: I think...
+Speaker 2: is physician error. By augmenting drivers, physicians, nurses with AI systems, we can drive these statistics to the point where we can drive these statistics down and save people's lives.
+Speaker 1: Are you comfortable driving in Waymo cars right now?
+Speaker 2: I am comfortable. What I'm sad about is how slowly the propagation is. I wish that we had them everywhere so that they could save lives
+Speaker 1: I think...
+Speaker 2: and reduce the number of
+Speaker 1: Accidents. Will we face extinction with AI? No.
+Speaker 2: That is overblown, that is science fiction, because we're talking about tools,
+Speaker 1: Powerful...
+Speaker 2: but not beings who are going to take over.
+Speaker 1: So what does it mean to be human in the era of advanced AI? I think...
+Speaker 2: I think it means the same thing it's always meant, but it is in a different technological context. But there's nothing new here, right?
+Speaker 1: I hope...
+Speaker 2: We used to work in agriculture. Now we're having a conversation. We used to not have the internet. Now we do. But we're still going to live and love and hate, unfortunately,
+Speaker 1: to live...
+Speaker 2: and go through our lives in a fundamentally human way.
+Speaker 1: Engaged...

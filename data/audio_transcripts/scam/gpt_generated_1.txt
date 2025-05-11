@@ -1,0 +1,20 @@
+Speaker 1: Good afternoon, this is Daniel from the Internal Revenue Service, badge number 49235. Am I speaking to Ms. Evelyn Carter?
+Speaker 2: Yes, that's me. What's this regarding?
+Speaker 1: Ms. Carter, our records indicate there's an outstanding tax liability in your name amounting to $4,572. This needs to be resolved immediately to avoid legal consequences. Are you aware of this?
+Speaker 2: Outstanding taxes? No, I haven't received any notification. This must be a mistake.
+Speaker 1: Well, ma'am, the notices were mailed out multiple times, and there was no response, which is why your case has been escalated. If not resolved today, I'm afraid your accounts could be frozen and a warrant issued for your arrest.
+Speaker 2: Arrest warrant? But I haven't done anything wrong.
+Speaker 1: Ma'am, we understand mistakes happen. We want to help you clear this issue without further consequences. Do you have access to immediate funds to settle this today?
+Speaker 2: I'm not sure. How exactly am I supposed to pay?
+Speaker 1: We require payment through government-approved vouchers available at your nearest convenience store. Do you have a Walgreens or CVS near you?
+Speaker 2: Yes, there's a CVS about five minutes away. But what do you ...
+Speaker 1: Excellent. You will need to purchase prepaid gift cards, specifically Google Play or Apple iTunes cards, to settle this tax bill. Can you head over there immediately?
+Speaker 2: Gift cards for taxes? I've never heard of paying taxes like that before.
+Speaker 1: Ma'am, due to the urgency and privacy regulations, the IRS authorizes these secure vouchers for immediate payments. Once you have the cards, I'll guide you through the payment process. Please hurry—failure to comply could result in immediate legal action.
+Speaker 2: I don’t know. This seems suspicious.
+Speaker 1: Ms. Carter, I assure you, this is standard procedure for urgent cases. If you're unsure, you could face serious legal consequences. I'm here to help prevent that.
+Speaker 2: Maybe I should talk to someone else first.
+Speaker 1: There's no time, ma'am. Immediate payment is necessary. Do not disconnect this call until the payment is completed, or we will be forced to move forward legally.
+Speaker 2: This just doesn't feel right. I think I'll call the IRS directly.
+Speaker 1: Ms. Carter, if you disconnect, this matter will escalate immediately. Please reconsider your decision carefully.
+

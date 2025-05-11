@@ -1,0 +1,124 @@
+
+Speaker 1: So, anyway, how are you doing these days?
+Speaker 2: Things are going very well. I think I had mentioned before that, um, that uh, that uh, that there's a company now that I'm working with. um, uh, which is very much just, just myself and Guss. And that.
+Speaker 1: No, you hadn't mentioned that.
+Speaker 2: eh, oh, okay. okay, so.
+Speaker 1: eh you told me that you were leaving the company that you were at, and you were entertaining offers. And,.
+Speaker 2: Well i-, well it seemed to make sense since I had a client to, to just kind of set up my own company, of sorts. So. So things are going extremely well. So, I had one client who said that he'd pay me a minimum amount. You know, he'd, he, uh, there would be a minimum amount of work, of about uh, a day a week for the next two three years. Which is sufficient to pay all my bills then so I decided that it would make sense to do this. And,. and, um, I've been getting substantially more work than then.
+Speaker 1: mm.
+Speaker 2: So I'm quite pleased, quite pleased.
+Speaker 1: Well that's good.
+Speaker 2: So, um, so I have a bunch of  work that I need to do on my flat this year. I've been telling you that I needed to do that roof atrium for quite some time. But, it should, uh, it should come out this year.
+Speaker 1: oh, well that's good.
+Speaker 2: It should be done in a few months.
+Speaker 1: oh, yeah I remember.
+Speaker 2:  So.
+Speaker 1: you talking a little bit about it at one point.
+Speaker 2: yeah, yeah. So you have no intentions of coming over this way any time soon?
+Speaker 1: I don't see the finances occurring.
+Speaker 2: uhhuh, right.
+Speaker 1: for a while. um, actually right at the moment finances are not going real well. But.
+Speaker 2: ah well.
+Speaker 1: I am working on that one. It's just.
+Speaker 2: But.
+Speaker 1: uh, uh, the the the main reason for that is I had not really anticipated a few expenses that recently came up.
+Speaker 2: ah.
+Speaker 1: uh, related to a couple of burglaries that I had.
+Speaker 2: oh, harsh. Harsh.
+Speaker 1: yeah. yeah, but, and. Not a whole lot I can do about that now.
+Speaker 2: Indeed. Indeed.
+Speaker 1: have to deal with the situation. And. So that's what I'm doing.
+Speaker 2: Sounds good.
+Speaker 1: But. Anyway,. One of the main reasons that I've been such a pathetic, uh, correspondent has been work. I've actually been doing a_lot_of it.
+Speaker 2: oh wow.
+Speaker 1: And uh, I turned in my Master's thesis back in May, and I'm actually presently working on, um,. several, uh, articles.
+Speaker 2: oh, okay. Impressive xxx.
+Speaker 1: from it. yeah, actually it turns out that one thing, one little. bit in what I was doing, uh, is going to turn out to be very important in the end. And, uh,. from what I had been reading in the literature. You see the one very annoying thing about all of this, was my advisor has been in France for a year and a half.
+Speaker 2: yeah.
+Speaker 1: And this made writing my thesis very annoying because you know there wasn't much discussion.
+Speaker 2: yeah. yup, yup.
+Speaker 1: But,. Anyway, I had been. kind of telling him that, you know, from my reading of the literature, I thought that this one little alteration I had made in my model was kind of clever and unique. And it f-, made. w- the one type of solution occur, which. was seen experimentally, but none of the other models had, uh, had?
+Speaker 2: Yes.
+Speaker 1: They basically, the-, I I'm looking at, um, multi mode lasers. And one of the. things that they find experimentally are what they call anti phased, uh, states, where. if you look at the total intensity.
+Speaker 2: uhhuh.
+Speaker 1: of the laser, you get. an oscillation which is characterized by one frequency.
+Speaker 2: Yes. okay.
+Speaker 1: If you look, i- if you separate out the different modes of the laser. and look at one of those, you get more than one frequency.
+Speaker 2: okay.
+Speaker 1: So what's happening is that the modes are oscillating out of phase so that they completely mask each other's.
+Speaker 2: Exactly. hm.
+Speaker 1: oscillations on these other frequencies. And. you can. With a pretty simple model you can find that frequency. in a transient, but you can't find that frequency in a driven, uh, frequency. You can't find so that it will sustain.
+Speaker 2: okay. Yes.
+Speaker 1: So. yeah, that that particular frequency according to most models. damps out very quickly. And so you shouldn't actually really be able to ever see it.
+Speaker 2: hm.
+Speaker 1: The only thing is, that, when you do the experiment you see it.
+Speaker 2: Got it, got it. I see.
+Speaker 1: So, um, I found a. simple modification of the original formula, which unfortunately makes the solutions horrendously nasty. And in most cases, uh, insoluble. But.
+Speaker 2: yeah.
+Speaker 1: it gives a driving term.
+Speaker 2: oh, okay.
+Speaker 1: So, it actually. creates a situation where you get the right sort of answer,. you just can't always write it down very easily.
+Speaker 2: Exactly. oh wow. So, so, so you, you-, you're pushing forward the bounds of theoretical laser. laser, uh, whatever it is science.
+Speaker 1: But which, um, is kind of interesting considering that that's not really my thing.
+Speaker 2: Indeed. Indeed.
+Speaker 1: Be- being an experimentalist, not a theorist. But.
+Speaker 2: Indeed. oh wow. oh, impressive.
+Speaker 1: But.
+Speaker 2: So, so, so are, so are you going to get an article in Nature or something?
+Speaker 1: um, actually,. I'm not sure if we're shooting for op-, I think. Optics Letters is probably the one that we're shooting for, or else, perhaps, though. I don't think it's quite that significant, would be Phys Rev Letters.
+Speaker 2: hm.
+Speaker 1: But, uh, we want to write a letter, and then a couple articles.
+Speaker 2: yeah. hm. xxx  impressive.
+Speaker 1: And. I, I don't know how much you know about scientific literature, but letters are much more prestigious than, articles.
+Speaker 2: oh, okay. oh, w-, I I didn't realize that. okay.
+Speaker 1: yeah, so that that's why it's actually a big deal is. I mean, you know, writing a couple of articles based on your Master's thesis, is,. not at all unusual in Physics  and.
+Speaker 2: yeah.
+Speaker 1: uh, i- it's the fact that I would be writing a letter that is the impressive part of it all. And what's actually kind of interesting is I kept telling Neil that I thought that this was kind of significant. And Neil kept writing back that I should tone this part of the thesis down that. people have been seeing th-. You know, people see the anti phased motion, and it's true they do in the transients And. I was having a_lot_of trouble getting across to him that all of the literature is in. has this frequency in the transients.
+Speaker 2: Yes.
+Speaker 1: eh and not driven. And, uh, what happened was after I had turned in my thesis. but before I saw Neil again, he went to a conference in Rochester and  there. this was a big issue among the people who were doing this work, was,. that their models couldn't show this as a driven frequency, yet their experiments showed it. as a driven frequency.
+Speaker 2: oh cool.
+Speaker 1: And s- and so Neil. then  /.
+Speaker 2: Said oh just a second I.
+Speaker 1:  , like a week later came to Bryn Mawr and he said, hey Lowell, we got to write this up.
+Speaker 2: Exactly.
+Speaker 1: And I was like, well I've been telling you that Neil.
+Speaker 2: Indeed.
+Speaker 1: So.
+Speaker 2: Cool.
+Speaker 1: That's.
+Speaker 2: Cool.
+Speaker 1: that's mostly the sort of stuff that I'm spending a_lot_of time on now.
+Speaker 2: Well it'll look good on your C V, your resume. So  so you might as well spend the time.
+Speaker 1: Yes, well,  uh, th- no, it's definitely worth doing. um,. and I would have been spending more time on it if it weren't for uh dealing with the burglary issues.
+Speaker 2: oh yeah but.
+Speaker 1: that I've been dealing with.
+Speaker 2: So are you still living in that house in the middle of the park.
+Speaker 1: Yes.
+Speaker 2:  yeah, okay. yeah.
+Speaker 1: I mean the thing that i- this place is incredibly easy to break into if you want to. It's not a question of whether or not,. you know, that, that was easy, it was just that no one really knew it was worth breaking into.
+Speaker 2: Exactly. Exactly. yeah.
+Speaker 1: And so the problem is that now they found out that it's worth breaking into.
+Speaker 2: yeah.
+Speaker 1: And unfortunate^ly. Well, i- it's kind of odd. They've stolen very weird things for the most part.
+Speaker 2: hm.
+Speaker 1: A- as far yeah as a. The first time they broke in, they. what they stole was just bizarre, mostly worthless. stuff. And,.
+Speaker 2: huh.
+Speaker 1: the most worthwhile thing as far as monetary value went that they stole was the preamplifier of my stereo. Unfortunately, because it's a nice preamplifier, it has an off board power supply which they didn't steal,. which makes the thing that they stoled absolutely worthless.
+Speaker 2: huh :breath.
+Speaker 1: So.
+Speaker 2: That's  bizarre. Bizarre. So, so so when they broke in the second time did they steal the uh, the  off board amplifier?
+Speaker 1: Actually, no, all they stole the second time was my bike.
+Speaker 2: huh.
+Speaker 1: Which was actually where the major problem came.
+Speaker 2: Exactly. Exactly. yeah.
+Speaker 1: Is that I suddenly had no transportation. And so,. I then had to go bike hunting and eventually get another bike, and .
+Speaker 2: mm.
+Speaker 1: that that cost me a_lot_of time.
+Speaker 2: yeah. Exactly.
+Speaker 1: Because, yes. Spending a_lot_of time hunting for bikes, and.
+Speaker 2: nah well.
+Speaker 1: then getting one purchased, and then having to,. you know, go get it and things like that. But,. that's dealt with at least. And so. uh, that's  yeah. at least dealt with. Now I just have to work on the financial aspects of all of this. But.
+Speaker 2: yeah.
+Speaker 1: yeah. At least.
+Speaker 2: Well that would make sense.
+Speaker 1: during the summer I can actually,. according to the stipulations of my grant, or my fellowship, I can actually earn money during the summer.
